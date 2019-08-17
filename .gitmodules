@@ -1,0 +1,3 @@
+[submodule "swift-nio-transport-services"]
+	path = swift-nio-transport-services
+	url = https://github.com/apple/swift-nio-transport-services.git
